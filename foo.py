@@ -3,3 +3,9 @@ def hello_world():
 
 def goodbye_world():
     return "Goodbye, World!"
+
+def hello_person(name):
+    return f"Hello, {name}!"
+
+def goodbye_person(name):
+   return f"Farewell, {name}!!!!!"
